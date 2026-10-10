@@ -1,3 +1,0 @@
-# Copy this file to secrets.toml and insert your own key.
-# Never commit secrets.toml to GitHub.
-OPENAI_API_KEY = "your-api-key-here"
